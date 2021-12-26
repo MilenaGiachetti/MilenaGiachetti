@@ -1,5 +1,6 @@
-# Hi I´m Milena 👋
-Front-end Web Developer
+## Hi! I´m Milena 👋
+<p>Front-end Web Developer</p>   
+
 <!--
 **MilenaGiachetti/MilenaGiachetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-  <a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MilenaGiachetti&show_icons=true&theme=react &hide=stars&count_private=true&include_all_commits=true">
-  <a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGiachetti&hide=c,hack,makefile&langs_count=10&theme=react&layout=compact">
-</p>   
+<a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MilenaGiachetti&show_icons=true&theme=react&hide=stars&count_private=true&include_all_commits=true">
+
+<a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGiachetti&hide=c,hack,makefile&langs_count=10&theme=react&layout=compact">
