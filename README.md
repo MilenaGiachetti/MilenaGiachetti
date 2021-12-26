@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MilenaGiachetti&show_icons=true&theme=react &hide=stars&count_private=true&include_all_commits=true">
-  <a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGiachetti&hide=c,hack,makefile&langs_count=10&theme=react">
+  <a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGiachetti&hide=c,hack,makefile&langs_count=10&theme=react&layout=compact">
 </p>   
