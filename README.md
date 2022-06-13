@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MilenaGiachetti&show_icons=true&theme=react&hide=stars&count_private=true&include_all_commits=true&bg_color=00000000&text_color=61d9fa">
+<a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MilenaGiachetti&show_icons=true&theme=react&hide=stars&count_private=true&include_all_commits=true&bg_color=00000000&text_color=3498db">
 
-<a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGiachetti&hide=c,hack,makefile&langs_count=10&theme=react&layout=compact&bg_color=00000000&text_color=61d9fa">
+<a href="https://github.com/MilenaGiachetti"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGiachetti&hide=c,hack,makefile&langs_count=10&theme=react&layout=compact&bg_color=00000000&text_color=3498db">
